@@ -1,2 +1,1 @@
-# HTML
-HTML tags
+project 1: use html tags
